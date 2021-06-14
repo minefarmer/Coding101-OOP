@@ -1,0 +1,2 @@
+class IceCream:
+    print("HI")
